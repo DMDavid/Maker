@@ -1,0 +1,10 @@
+use_frameworks!
+
+pod 'Masonry'
+pod 'YYKit'
+pod 'CTAssetsPickerController',  '~> 3.3.0'
+pod 'DMHud'
+pod 'DMSubmitView', '~> 0.0.2'
+
+target 'Maker' do
+end

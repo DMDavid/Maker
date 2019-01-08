@@ -1,0 +1,38 @@
+PODS:
+  - CTAssetsPickerController (3.3.1):
+    - PureLayout (~> 3.0.0)
+  - DMHud (0.0.2)
+  - DMSubmitView (0.0.2)
+  - Masonry (1.1.0)
+  - PureLayout (3.0.2)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - CTAssetsPickerController (~> 3.3.0)
+  - DMHud
+  - DMSubmitView (~> 0.0.2)
+  - Masonry
+  - YYKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CTAssetsPickerController
+    - DMHud
+    - DMSubmitView
+    - Masonry
+    - PureLayout
+    - YYKit
+
+SPEC CHECKSUMS:
+  CTAssetsPickerController: b1d1d50ab87cf6b8b13531de5f4530482e7e53ed
+  DMHud: 42bc9a0cf065365c5751c7e0278b4776c353c4ff
+  DMSubmitView: 8377518a0cc1cedc2f1fc37610dd29a385d8e319
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  PureLayout: 4d550abe49a94f24c2808b9b95db9131685fe4cd
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: 250ff756744a8ed8bbe4660432b2ecda5bb340f2
+
+COCOAPODS: 1.5.3
